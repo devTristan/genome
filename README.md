@@ -6,7 +6,7 @@ Some basic pseudo-genetics for a new project of mine
 Hello, Genome
 =============
 
-Note that george will only say hello 66% of the time, depending on whether or not he likes you.
+Note that george will only say hello 66% of the time, depending on whether or not he likes you. Fortunately, liking you enough to say hello happens to be a dominant trait.
 
 	var genome = require('./genome');
 	var human = new genome();
