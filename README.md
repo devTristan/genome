@@ -6,7 +6,7 @@ Some basic pseudo-genetics for a new project of mine
 Hello, Genome
 =============
 
-Note that this simple example will only work 66% of the time.
+Note that george will only say hello 66% of the time, depending on whether or not he likes you.
 
 	var genome = require('./genome');
 	var human = new genome();
