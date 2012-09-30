@@ -109,3 +109,9 @@ Example
 	
 	var billybob = human.breed(joe, jane, 0.05);
 	console.log('billybob', billybob);
+
+Output:
+
+	joe { eyeColor: [ 319, 58, 43 ], arms: 1, likesKale: 1 }
+	jane { eyeColor: [ 51, 66, 48 ], arms: 4, likesKale: 0 }
+	billybob { eyeColor: [ 300.5, 60.68, 44.53 ], arms: 1.41, likesKale: 1 }
